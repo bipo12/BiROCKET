@@ -1,5 +1,6 @@
 # BiROCKET
-Witaj! Aplikacja „BiROCKET" przeznaczona jest do projektowania pocisków rakietowych na paliwo stałe, wyznaczania ich charakterystyk aerodynamicznych oraz symulowania lotu w atmosferze ziemskiej :rocket:. 
-Oprogramowanie zostało zaimplementowane przy wykorzystaniu języka C++ oraz bibliotek graficznych Qt. Zastosowany model matematyczny umożliwia wyznaczenie wybranych parametrów lotu wzdłuż płaszczyzny sztrzału i uwzględnia właściwości masowo bezwładnościowe pocisku rakietowego. 
-Program pozwala na projektowanie głowicy, kadłuba, silnika, części dennej oraz brzechw rakiety i oblicza ich charakterystyki aerodynamiczne według metody L. S. Czernobrowkina i A. A. Lebiediewa.
-Model atmosfery ziemskiej wykorzystywany w oprogramowaniu bazuje na normie AS-64. W celu uruchomienia aplikacji należy pobrać pliki z repozytorium i otworzyć plik BiROCKETRT.exe
+Hello! The "BiROCKET" application is designed for designing solid-fuel rockets, determining their aerodynamic characteristics, and simulating flight in the Earth's atmosphere 🚀. The software has been implemented using the C++ programming language and the Qt graphics libraries. The mathematical model employed allows for the calculation of selected flight parameters along the trajectory plane, taking into account the inertial properties of the rocket projectile.
+
+The program allows for the design of the rocket's warhead, fuselage, engine, bottom part, and fins while calculating their aerodynamic characteristics based on the methods of L. S. Czernobrowkin and A. A. Lebiediew. The Earth's atmosphere model used in the software is based on the AS-64 standard.
+
+To run the application, you need to download the files from the repository and open the BiROCKETRT.exe file.
